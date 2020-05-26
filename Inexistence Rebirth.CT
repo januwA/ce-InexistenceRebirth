@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"hp 1"</Description>
+      <LastState Value="1028" RealAddress="0ED86D18"/>
+      <Color>000000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>4A8</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"hp 2"</Description>
+      <LastState Value="1028" RealAddress="0ED86D18"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"THREADSTACK0"-000003DC</Address>
+      <Offsets>
+        <Offset>4A8</Offset>
+        <Offset>268</Offset>
+        <Offset>18</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"魔法"</Description>
+      <LastState Value="1000" RealAddress="0ED86D48"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>4D8</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"力量"</Description>
+      <LastState Value="1000" RealAddress="0ED86D28"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>4B8</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"防御"</Description>
+      <LastState Value="1000" RealAddress="0ED86D38"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>4C8</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"hp上线(999好看点)"</Description>
+      <LastState Value="999" RealAddress="0ED86D58"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>4E8</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"等级"</Description>
+      <LastState Value="2" RealAddress="0ED86D68"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>4F8</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"属性点"</Description>
+      <LastState Value="960" RealAddress="0ED86D78"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>508</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"技能点"</Description>
+      <LastState Value="937" RealAddress="0ED86AA8"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>238</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"游戏币"</Description>
+      <LastState Value="10094" RealAddress="0ED868C8"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>58</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"潜水空气"</Description>
+      <LastState Value="50" RealAddress="0ED872A8"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>a38</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"传送石头数量"</Description>
+      <LastState Value="25" Activated="1" RealAddress="0ED86978"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>108</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"超级药剂数量"</Description>
+      <LastState Value="2" RealAddress="0ED86938"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>c8</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"药剂数量"</Description>
+      <LastState Value="1" RealAddress="0ED86928"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>b8</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"地图数量"</Description>
+      <LastState Value="11" RealAddress="0ED86A18"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"Inexistence Rebirth.exe"+000B70E4</Address>
+      <Offsets>
+        <Offset>1a8</Offset>
+        <Offset>268</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry Color="20000000">
+      <Description>替换了 mov [esp+14],edi</Description>
+      <AddressString>Inexistence Rebirth.exe+2F191</AddressString>
+      <Before>
+        <Byte>3D</Byte>
+        <Byte>EC</Byte>
+        <Byte>70</Byte>
+        <Byte>0C</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>89</Byte>
+        <Byte>7C</Byte>
+        <Byte>24</Byte>
+        <Byte>14</Byte>
+      </Actual>
+      <After>
+        <Byte>FF</Byte>
+        <Byte>15</Byte>
+        <Byte>B4</Byte>
+        <Byte>B3</Byte>
+        <Byte>0A</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry Color="20000000">
+      <Description>替换了 movq [esi+10],xmm0</Description>
+      <AddressString>Inexistence Rebirth.exe+2CD2</AddressString>
+      <Before>
+        <Byte>57</Byte>
+        <Byte>C0</Byte>
+        <Byte>0F</Byte>
+        <Byte>11</Byte>
+        <Byte>06</Byte>
+      </Before>
+      <Actual>
+        <Byte>66</Byte>
+        <Byte>0F</Byte>
+        <Byte>D6</Byte>
+        <Byte>46</Byte>
+        <Byte>10</Byte>
+      </Actual>
+      <After>
+        <Byte>C7</Byte>
+        <Byte>46</Byte>
+        <Byte>18</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry Color="20000000">
+      <Description>替换了 mov [rbx+10],ecx</Description>
+      <AddressString>wow64win.dll+597E</AddressString>
+      <Before>
+        <Byte>4B</Byte>
+        <Byte>0C</Byte>
+        <Byte>8B</Byte>
+        <Byte>4F</Byte>
+        <Byte>20</Byte>
+      </Before>
+      <Actual>
+        <Byte>89</Byte>
+        <Byte>4B</Byte>
+        <Byte>10</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>47</Byte>
+        <Byte>24</Byte>
+        <Byte>89</Byte>
+        <Byte>43</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry Color="20000000">
+      <Description>替换了 mov [rbx+10],eax</Description>
+      <AddressString>wow64win.dll+4682</AddressString>
+      <Before>
+        <Byte>4B</Byte>
+        <Byte>0C</Byte>
+        <Byte>8B</Byte>
+        <Byte>47</Byte>
+        <Byte>20</Byte>
+      </Before>
+      <Actual>
+        <Byte>89</Byte>
+        <Byte>43</Byte>
+        <Byte>10</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>47</Byte>
+        <Byte>24</Byte>
+        <Byte>89</Byte>
+        <Byte>43</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry Color="20000000">
+      <Description>替换了 mov [esp+14],edi</Description>
+      <AddressString>Inexistence Rebirth.exe+2F191</AddressString>
+      <Before>
+        <Byte>3D</Byte>
+        <Byte>EC</Byte>
+        <Byte>70</Byte>
+        <Byte>0C</Byte>
+        <Byte>00</Byte>
+      </Before>
+      <Actual>
+        <Byte>89</Byte>
+        <Byte>7C</Byte>
+        <Byte>24</Byte>
+        <Byte>14</Byte>
+      </Actual>
+      <After>
+        <Byte>FF</Byte>
+        <Byte>15</Byte>
+        <Byte>B4</Byte>
+        <Byte>B3</Byte>
+        <Byte>0A</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+  <Structures StructVersion="2">
+    <Structure Name="hp" AutoFill="0" AutoCreate="1" DefaultHex="0" AutoDestroy="0" DoNotSaveLocal="0" RLECompression="1" AutoCreateStructsize="4096">
+      <Elements>
+        <Element Offset="0" Vartype="4 Bytes" Bytesize="4" Description="hp" DisplayMethod="无符号整数"/>
+        <Element Offset="4" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="16" Vartype="4 Bytes" Bytesize="4" Description="基本力量" DisplayMethod="无符号整数"/>
+        <Element Offset="20" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="32" Vartype="4 Bytes" Bytesize="4" Description="基本防御力" DisplayMethod="无符号整数"/>
+        <Element Offset="36" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="48" Vartype="4 Bytes" Bytesize="4" Description="魔法攻击力" DisplayMethod="无符号整数"/>
+        <Element Offset="52" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="64" Vartype="4 Bytes" Bytesize="4" Description="血上限(推测)" DisplayMethod="无符号整数"/>
+        <Element Offset="68" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="80" Vartype="4 Bytes" Bytesize="4" Description="等级" DisplayMethod="无符号整数"/>
+        <Element Offset="84" Vartype="4 Bytes" Bytesize="4" RLECount="3" DisplayMethod="无符号整数"/>
+        <Element Offset="96" Vartype="4 Bytes" Bytesize="4" Description="属性点数" DisplayMethod="无符号整数"/>
+        <Element Offset="100" Vartype="4 Bytes" Bytesize="4" RLECount="487" DisplayMethod="无符号整数"/>
+      </Elements>
+    </Structure>
+    <Structure Name="Rebirth hp" AutoFill="0" AutoCreate="1" DefaultHex="0" AutoDestroy="0" DoNotSaveLocal="0" RLECompression="1" AutoCreateStructsize="4096">
+      <Elements>
+        <Element Offset="0" Vartype="4 Bytes" Bytesize="4" RLECount="8" DisplayMethod="无符号整数"/>
+        <Element Offset="32" Vartype="4 Bytes" Bytesize="4" Description="力量" DisplayMethod="无符号整数"/>
+        <Element Offset="36" Vartype="4 Bytes" Bytesize="4" RLECount="503" DisplayMethod="无符号整数"/>
+      </Elements>
+    </Structure>
+  </Structures>
+  <DisassemblerComments>
+    <DisassemblerComment>
+      <Address>"Inexistence Rebirth.exe"+2F191</Address>
+      <Comment>set hp
+</Comment>
+    </DisassemblerComment>
+  </DisassemblerComments>
+</CheatTable>
